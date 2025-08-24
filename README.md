@@ -16,8 +16,10 @@ Passionate about **web development**, **AI integrations**, and **cloud technolog
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Java Swing](https://img.shields.io/badge/Java%20Swing-F7DF1E?logo=oracle&logoColor=black)
 
 **Backend & Databases:**  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
