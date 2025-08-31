@@ -3,8 +3,13 @@
 I’m **H. Mert Ozsoy**, a senior **Computer Engineering student** from Turkey.  
 Passionate about **web development**, **AI integrations**, and **cloud technologies**.  
 
----
+👤[Portfolio](https://hasanmertozsoy.github.io/portfolio/) - 📧 [hasanmertozsoy@gmail.com](mailto:hasanmertozsoy@gmail.com)  - 💼 [LinkedIn](https://linkedin.com/in/hasanmertozsoy)  
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanmertozsoy&repo=supermarket&theme=tokyonight)](https://github.com/hasanmertozsoy/supermarket)  
+
+
+---
+<!--## Hi there 👋
 
 <div align="center">
 
@@ -63,13 +68,12 @@ Passionate about **web development**, **AI integrations**, and **cloud technolog
 ## 📌 Pinned Projects  
 
 ### 🛒 Supermarket App  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanmertozsoy&repo=supermarket&theme=tokyonight)](https://github.com/hasanmertozsoy/supermarket)  
 
 ---
 
 ✨ *Always curious. Always building. Always learning.*  
 
-<!--## Hi there 👋
+
 
 
 **hasanmertozsoy/hasanmertozsoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
