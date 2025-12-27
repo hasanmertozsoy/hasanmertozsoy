@@ -4,7 +4,7 @@ I’m **H. Mert Ozsoy**, a senior **Computer Engineering student** from Turkey.
 Passionate about **web development**, **AI integrations**, and **cloud technologies**.  
 
 👤[Portfolio](https://hasanmertozsoy.github.io/portfolio/) - 📧 [hasanmertozsoy@gmail.com](mailto:hasanmertozsoy@gmail.com)  - 💼 [LinkedIn](https://linkedin.com/in/hasanmertozsoy)  
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanmertozsoy&repo=SmartReadingMvc&theme=tokyonight)](https://github.com/hasanmertozsoy/SmartReadingMvc)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanmertozsoy&repo=supermarket&theme=tokyonight)](https://github.com/hasanmertozsoy/supermarket)  
 
 
